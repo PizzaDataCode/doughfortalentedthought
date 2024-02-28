@@ -11,4 +11,4 @@ A list of curated resources for stronger talent acquisition
 ## Hiring
 * **Strategy** [Hiring against the market](https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html), Erik Bern
 > TL;DR If you think some quality is desirable and the market overvalues that quality, you should look at the other side of the spectrum
-
+* **Strategy** [On hiring T-shaped talent](https://jchyip.medium.com/why-t-shaped-people-e8706198e437), Jason Yip

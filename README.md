@@ -16,3 +16,7 @@ A list of curated resources for stronger talent acquisition
 
 ## Interviewing (Candidate)
 * [How to prep for first interviews](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview), Coach Erika in Lenny's newsletter
+
+
+## Internal processes
+* [Example of clearly outlined career progression](https://juro.notion.site/Career-framework-c9acbf27ec464b81b5bd4b3a22abe6dc), Juno

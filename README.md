@@ -2,7 +2,6 @@
 A list of curated resources for stronger talent acquisition
 
 ## Interviewing (Recruiter)
-
 * **Pitching** [The Dinner Party Jerk test](https://andrewchen.com/the-dinner-party-jerk-test/), Andrew Chen
 > TL;DR Create pithyful narrative focused on credentials and future over past achievements
 * **Interviewing** [Research-based selection effectiveness](https://orghacking.com/want-to-improve-recruiting-start-by-learning-from-100-years-of-research-schmidt-a1daa29efcfb)
@@ -20,3 +19,7 @@ A list of curated resources for stronger talent acquisition
 
 ## Internal processes
 * [Example of clearly outlined career progression](https://juro.notion.site/Career-framework-c9acbf27ec464b81b5bd4b3a22abe6dc), Juno
+
+
+
+* Communities: Higher and its webinars https://higher-community-getting-started.notion.site/HIGHER-webinars-events-ec61a3f85dc048f8a576b63006b238f0

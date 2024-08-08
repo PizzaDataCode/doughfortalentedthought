@@ -14,6 +14,7 @@ A list of curated resources for stronger talent acquisition
 > TL;DR Create pithyful narrative focused on credentials and future over past achievements
 * **Interviewing** [Research-based selection effectiveness](https://orghacking.com/want-to-improve-recruiting-start-by-learning-from-100-years-of-research-schmidt-a1daa29efcfb)
 * **Interviewing** [Interviewing as noisy prediction problem](https://erikbern.com/2018/05/02/interviewing-is-a-noisy-prediction-problem), Erik Bern
+* **Technical Inteviews** [Data-backed false negative at technical interview](https://interviewing.io/blog/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview), interview.io
 * **A manager approach to Technical interviewing** [Alex Golec's set of interview essays](https://alexgolec.dev/reddit-interview-problems-the-game-of-life/), Alex Golec
 
 ## Internal processes
